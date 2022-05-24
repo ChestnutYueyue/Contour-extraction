@@ -3,7 +3,7 @@
 int main(int argc, char **argv)
 {
 
-    Contour contour("./你好.jpg");
+    Contour contour("./corridor.jpg");
     contour.findContours();
     contour.show();
     contour.save();
