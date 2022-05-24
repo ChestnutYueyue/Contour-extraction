@@ -1,0 +1,11 @@
+[
+{
+  "directory": "/home/ricocosoul/code/opencv",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fPIC", "-Isrc/include", "-I", "/usr/include/opencv4", "-o", "build/.objs/mango/linux/x86_64/debug/src/source/Contour.cpp.o", "src/source/Contour.cpp"],
+  "file": "src/source/Contour.cpp"
+},
+{
+  "directory": "/home/ricocosoul/code/opencv",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-Isrc/include", "-I", "/usr/include/opencv4", "-o", "build/.objs/Dome/linux/x86_64/debug/Dome/main.cpp.o", "Dome/main.cpp"],
+  "file": "Dome/main.cpp"
+}]
