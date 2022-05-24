@@ -13,4 +13,5 @@
 
 ## 处理前
 ![原图](https://github.com/ChestnutYueyue/Contour-extraction/blob/master/Image/corridor.jpg?raw=true)
+## 处理后
 ![处理](https://github.com/ChestnutYueyue/Contour-extraction/blob/master/Image/corridor_1.jpg?raw=true)
